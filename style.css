@@ -1,0 +1,13 @@
+/* style.css */
+h1 {
+    color: #a52a2a;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+.list {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    font-weight: 500;
+}
